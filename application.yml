@@ -10,3 +10,5 @@ eureka:
  microservice:
   payment-service:
     uri: http://PAYMENT-SERVICE/payment/doPayment
+ property-file.name=sanjay_jadhav
+ property-file.description=hi_all
